@@ -14,7 +14,7 @@
 
 📧 Email : nuit0535@gmail.com  
 📚 Blog : [https://parangdajavous.inblog.io/](https://parangdajavous.inblog.io/)  
-💼 Portfolio : [Backend Developer 김미숙 Protfolio.pdf](https://github.com/user-attachments/files/21715965/Backend.Developer.Protfolio.pdf)
+💼 Portfolio : [Backend Developer 김미숙 Protfolio](https://github.com/user-attachments/files/22245637/Backend.Developer.Portfolio.pdf)
 
 ---
 
@@ -28,6 +28,9 @@ REST API 구조 전환 + JWT 기반 인증/인가
 
 ### [⚾ 프로젝트 3 - KBO 팬들을 위한 올인원 커뮤니티 플랫폼](https://github.com/ballkkaye-backend)
 선수별 데이터 기반 승리 예측 & 스코어 예측, 데이터 연동을 통한 경기 우천 취소 예측 등 데이터 기반 API 서버 구축
+
+### [🧩 프로젝트4 - OpenAI 기반 코드 리팩토링 기능을 갖춘 블록코딩 학습 앱](https://github.com/jjava-app-backend)
+블록코딩으로 문제를 풀고, AI 피드백과 학습 이력을 관리하며, 점수·리더보드로 성취를 확인할 수 있는 학습 플랫폼
 
 ---
 
